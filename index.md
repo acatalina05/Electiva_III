@@ -1,5 +1,7 @@
 # Análisis y predicción de series de tiempo: Predicción del consumo energético
 
+La predicción de la demanda eléctrica es un elemento clave para el funcionamiento eficiente de los sistemas energéticos, ya que permite anticipar el consumo y coordinar de manera óptima la generación y distribución de energía. En un contexto donde se explora la implementación de diversas fuentes de energía, contar con estimaciones precisas resulta fundamental para integrar de manera eficiente estas alternativas, reducir la incertidumbre, mejorar la estabilidad del sistema y contribuir a una formación más adecuada de precios. Este trabajo explora el modelado de la demanda energética considerando distintos horizontes temporales y el papel fundamental de factores como la temperatura, con el fin de comprender mejor los patrones de consumo y fortalecer la toma de decisiones en el sector energético.
+
 ## Análisis explotatorio de datos
 
 El análisis exploratorio de datos (EDA) se orienta en identificar patrones temporales relevantes, como tendencias, estacionalidad y posibles ciclos en el consumo energético, los cuales son fundamentales para la correcta especificación de modelos de series de tiempo. Asimismo, el EDA facilita la detección de anomalías, valores atípicos o inconsistencias en los datos, que podrían sesgar los resultados si no son tratados adecuadamente.
