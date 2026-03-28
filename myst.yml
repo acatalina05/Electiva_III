@@ -1,15 +1,15 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+
 project:
   id: cb3c29e8-1554-424b-a46a-32cd678e752f
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
-  # github:
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  title: Análisis y preidcción de series de tiempo - Predicción del consumo energético
+  description: Análisis y predicción de la demanda eléctrica
+  authors:
+    - name: A Catalina Orozco, Lina Escorcia y Andrea Molina
+  keywords: [energía, series de tiempo, predicción]
+
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  options:
+    base_url: /Electiva_III/
