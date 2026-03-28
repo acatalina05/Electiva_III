@@ -5,7 +5,7 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/predicci-n-consumo-de-energia</loc>
+    <loc>http://localhost:3000/prediccion-consumo-energia</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme</loc>
