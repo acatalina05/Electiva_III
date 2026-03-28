@@ -10,4 +10,7 @@
   <url>
     <loc>http://localhost:3000/predicci-n-consumo-de-energia</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/readme</loc>
+  </url>
 </urlset>
