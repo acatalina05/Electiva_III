@@ -5,6 +5,9 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/entregrable-2ipynb</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/prediccion-consumo-energia</loc>
   </url>
   <url>
