@@ -3,7 +3,7 @@ version: 1
 
 project:
   id: cb3c29e8-1554-424b-a46a-32cd678e752f
-  title: Análisis y preidcción de series de tiempo - Predicción del consumo energético
+  title: Análisis y predicción de series de tiempo - Predicción del consumo energético
   description: Análisis y predicción de la demanda eléctrica
   authors:
     - name: A Catalina Orozco, Lina Escorcia y Andrea Molina

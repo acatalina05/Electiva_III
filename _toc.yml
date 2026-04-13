@@ -1,0 +1,21 @@
+format: jb-book
+root: index
+
+parts:
+  
+  - caption: Análisis exploratorio de datos (EDA)
+    chapters:
+      - file: prediccion_consumo_energia
+
+  - caption: Modelos Arima y ETS
+    chapters:
+      - file: Entregrable_2
+      - file: Evaluacion_desempeño
+
+  - caption: Modelos Deep learging
+    chapters:
+      - file: Modelo_MLP (5)
+
+  - caption: Tarea 1
+    chapters:
+      - file: Tarea 1-Intro serie de tiempo
