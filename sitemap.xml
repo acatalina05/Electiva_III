@@ -17,6 +17,12 @@
     <loc>http://localhost:3000/modelo-mlp-5</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/entregrable-3ipynb</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/modelos-rnn-1</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/tarea-1-intro-serie-de-tiempo</loc>
   </url>
 </urlset>
